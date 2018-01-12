@@ -8,6 +8,7 @@ Use npm to install selenium
 and use the driver that you want:
 
 [Chromeriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+
 [Firefox](https://github.com/mozilla/geckodriver/releases)
 
 Happy testing!
