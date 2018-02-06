@@ -26,4 +26,4 @@ openWebPage();
 
 searchOnGoogle();
 
-closeDriver();
+//closeDriver();
