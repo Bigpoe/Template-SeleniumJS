@@ -15,8 +15,8 @@ function getElementText(){
   HomePage.getButtonLoginText();
 }
 
-function searchOnGoogle(){
-  HomePage.search();
+exports.testSearchOnGoogle = function searchOnGoogle(){
+  HomePage.makeSearch();
 }
 
 

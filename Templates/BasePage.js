@@ -9,7 +9,7 @@ class BasePage {
   }
 
   openHomePage(){
-    driver.get(properties.URL);
+    driver.get(properties.navigate.URL);
     //driver.wait(until.titleIs('Submitted Successfully!'), 3000);
   }
 
@@ -17,6 +17,5 @@ class BasePage {
     driver.quit();
   }
 }
-
 
 module.exports = BasePage;
